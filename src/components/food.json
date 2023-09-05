@@ -1,0 +1,129 @@
+[{
+    "breakfast": {
+      "food": {
+        "meal": "Bread Sandwich",
+        "image": "https://i.pinimg.com/236x/c4/fc/98/c4fc98e6ecd2f4afc4c10567be578296.jpg",
+        "price": "1500"
+      },
+      "food1": {
+        "meal": "Akara and Pap",
+        "image": "https://i.pinimg.com/236x/78/76/1d/78761da828fdabfc1762aee29841dba9.jpg",
+        "price": "1000"
+      },
+      "food2": {
+        "meal": "Instant Noodles and Egg",
+        "image": "https://i.pinimg.com/236x/24/4e/bb/244ebbd1e0b77a851b68f0ed6fe9c27b.jpg",
+        "price": "1200"
+      },
+      "food3": {
+        "meal": "Cereal",
+        "image": "https://i.pinimg.com/236x/27/5b/0a/275b0ac595d0eb2c35e0b711b2504524.jpg",
+        "price": "1000"
+      },
+      "food4": {
+        "meal": "Pancake",
+        "image": "https://i.pinimg.com/236x/8e/0f/be/8e0fbef0b2b8932394316af6a040949a.jpg",
+        "price": "1000"
+      },
+      "food5": {
+        "meal": "Potata Omelette",
+        "image": "https://i.pinimg.com/236x/c9/2c/63/c92c638277b9d322bbe02830d0341182.jpg",
+        "price": "1000"
+      },
+      "food6": {
+        "meal": "Tea and Bread",
+        "image": "https://i.pinimg.com/236x/74/47/27/744727b216baf8b86a4dbe0ac04dc00c.jpg",
+        "price": "1200"
+      },
+      "food7": {
+        "meal": "Fruit Salad",
+        "image": "https://i.pinimg.com/236x/15/53/f5/1553f507ae736176e250efdc12c43b28.jpg",
+        "price": "1000"
+      }
+    }
+  },
+  {
+    "lunch": {
+        "fooda": {
+            "meal": "Jollof Rice",
+            "image": "https://i.pinimg.com/236x/c6/aa/0f/c6aa0fae6e2151cbd6f1b6c57d077032.jpg",
+            "price": "1000"
+          },
+        "foodb": {
+            "meal": "Garri and Groundnut",
+            "image": "https://i.pinimg.com/236x/0d/4f/10/0d4f1080360da322823d59e2340f2797.jpg",
+            "price": "800"
+          },
+        "foodc": {
+            "meal": "Egusi soup and Cassava meal(Eba)",
+            "image": "https://i.pinimg.com/236x/c6/aa/0f/c6aa0fae6e2151cbd6f1b6c57d077032.jpg",
+            "price": "1500"
+          },
+        "foodd": {
+            "meal": "Rice and Tomato stew",
+            "image": "https://i.pinimg.com/236x/47/aa/de/47aade7bad628ba8d07dc918e1b6d800.jpg",
+            "price": "1500"
+          },
+        "foode": {
+            "meal": "Yam Porridge",
+            "image": "https://i.pinimg.com/236x/29/df/45/29df450749e6905f640dcbf848020e26.jpg",
+            "price": "1200"
+          },
+        "foodf": {
+            "meal": "MTN Rice",
+            "image": "https://i.pinimg.com/236x/d9/93/e5/d993e581bb3758a05fb0f67185dc5d16.jpg",
+            "price": "1000"
+          },
+        "foodg": {
+            "meal": "Sweet Potato Porridge",
+            "image": "https://i.pinimg.com/236x/bf/12/4a/bf124a726dafd00d5880b198607387d5.jpg",
+            "price": "1000"
+          }
+        
+    }
+  },
+  {
+    "dinner": {
+        "foodi": {
+            "meal": "Edikaikong and Cassava meal(Eba)",
+            "image": "https://i.pinimg.com/236x/f1/3c/f2/f13cf261f2890a424f1fc67443c31be5.jpg",
+            "price": "1500"
+          },
+        "foodii": {
+            "meal": "Bean and Fried plantain",
+            "image": "https://i.pinimg.com/236x/8b/26/69/8b2669ed18941f8108f6e6faf4536748.jpg",
+            "price": "1200"
+          },
+        "foodiii": {
+            "meal": "Fried Rice",
+            "image": "https://i.pinimg.com/236x/1f/9c/30/1f9c30904eb481826c6ad09238b7903e.jpg",
+            "price": "1500"
+          },
+        "foodiv": {
+            "meal": "Beans and Bread",
+            "image": "https://i.pinimg.com/236x/55/1d/41/551d419e8b58f347473c7b451630a564.jpg",
+            "price": "1200"
+          },
+        "foodv": {
+            "meal": "Ogbono Soup and fufu",
+            "image": "https://i.pinimg.com/236x/00/77/25/007725e94987dd33871334f32730044d.jpg",
+            "price": "1500"
+          },
+        "foodvi": {
+            "meal": "Okra Soup and fufu",
+            "image": "https://i.pinimg.com/236x/3e/ec/f0/3eecf09c7bef3ac2af73344c484eb3e1.jpg",
+            "price": "1500"
+          },
+        "foodvii": {
+            "meal": "Bitterleaf Soup",
+            "image": "https://i.pinimg.com/236x/3e/ec/f0/3eecf09c7bef3ac2af73344c484eb3e1.jpg",
+            "price": "1500"
+          },
+        "foodviii": {
+            "meal": "Afang Soup",
+            "image": "https://i.pinimg.com/236x/02/19/30/021930f4f4db44be03462b646f7cfefa.jpg",
+            "price": "1500"
+          }
+    }
+  }
+]
